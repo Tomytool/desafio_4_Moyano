@@ -1,0 +1,11 @@
+{
+  "name": "desafio_4_moyano",
+  "version": "1.0.0",
+  "description": "Desafio nuemro 4 de curso Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomas Moyano",
+  "license": "ISC"
+}

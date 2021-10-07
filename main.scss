@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #c2cae8;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .contenedor {
+    width: 80%;
+    height: auto;
+    .caja {
+      margin-top: 20px;
+    }
+    button {
+      font-size: 24px;
+      background-color: #1c789c;
+      padding: 10px;
+      color: white;
+      border-radius: 15px;
+    }
+  }
+}
